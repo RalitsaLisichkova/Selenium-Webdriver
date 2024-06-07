@@ -1,0 +1,38 @@
+[
+  {
+  "firstName" : "Mariya",
+  "lastName" : "Gerova",
+  "number" : "3988888888",
+  "userEmail" : "mariyaGerova@gmail.com",
+  "gender" : "female",
+  "occupation" : "doctor",
+  "userPassword" : "QAAcademy123",
+  "productName" : "IPHONE 13 PRO",
+  "country" : "Australia"
+  } ,
+  {
+    "firstName": "Petur",
+    "lastName": "Petrov",
+    "number": "3988884643",
+    "userEmail": "petur@gmail.com",
+    "gender": "male",
+    "occupation": "student",
+    "userPassword": "Petur234",
+    "productName": "ADIDAS ORIGINAL",
+    "country": "India"
+  } ,
+  {
+
+    "firstName" : "Sami",
+    "lastName" : "Goshev",
+    "number" : "3985484643",
+    "userEmail" : "samuil@gmail.com",
+    "gender" : "male",
+    "occupation" : "scientist",
+    "userPassword" : "S234",
+    "productName" : "ZARA COAT 3",
+    "country" : "Bulgaria"
+
+  }
+
+]

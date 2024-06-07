@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03409263-9d64-478a-acb7-1c02a333cf52" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/submitOrder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/abstractcomponents/AbstractComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageobjects/CartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageobjects/ConfirmationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageobjects/LandingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageobjects/OrderPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageobjects/PaymentAndShipping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageobjects/ProductCatalogue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageobjects/RegisterForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/resources/GlobalData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/resources/TestReports.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/rahulshettyacademy/ErrorValidations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/rahulshettyacademy/SubmitOrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/rahulshettyacademy/TestComponents/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/rahulshettyacademy/TestComponents/Listeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/rahulshettyacademy/TestComponents/Retry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/rahulshettyacademy/data/RegisterFormData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2e8Cl9ZhXL3xyPQPD5wSSNNOR1h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG./Users/ralitsalisichkova/Desktop/pragmatic/SeleniumFrameworkDesign/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ErrorValidations.invalidLogin.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ErrorValidations.loginErrorValidation.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SubmitOrderTest.OrderHistoryTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SubmitOrderTest.deleteOrderTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SubmitOrderTest.orderProduct.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SubmitOrderTest.sumbitOrder.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Test.sumbitOrder.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pageobjects" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="rahulshettyacademy" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="rahulshettyacademy" />
+      <recent name="rahulshettyacademy.TestComponents" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/ralitsalisichkova/Desktop/pragmatic/SeleniumFrameworkDesign/testng.xml">
+    <configuration name="ErrorValidations.loginErrorValidation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumFrameworkDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rahulshettyacademy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rahulshettyacademy" />
+      <option name="MAIN_CLASS_NAME" value="rahulshettyacademy.ErrorValidations" />
+      <option name="METHOD_NAME" value="loginErrorValidation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubmitOrderTest.deleteOrderTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumFrameworkDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rahulshettyacademy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rahulshettyacademy" />
+      <option name="MAIN_CLASS_NAME" value="rahulshettyacademy.SubmitOrderTest" />
+      <option name="METHOD_NAME" value="deleteOrderTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubmitOrderTest.orderProduct" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumFrameworkDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rahulshettyacademy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rahulshettyacademy" />
+      <option name="MAIN_CLASS_NAME" value="rahulshettyacademy.SubmitOrderTest" />
+      <option name="METHOD_NAME" value="orderProduct" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubmitOrderTest.sumbitOrder" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumFrameworkDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rahulshettyacademy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rahulshettyacademy" />
+      <option name="MAIN_CLASS_NAME" value="rahulshettyacademy.SubmitOrderTest" />
+      <option name="METHOD_NAME" value="sumbitOrder" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/ralitsalisichkova/Desktop/pragmatic/SeleniumFrameworkDesign/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumFrameworkDesign" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/ralitsalisichkova/Desktop/pragmatic/SeleniumFrameworkDesign/testng.xml" />
+        <item itemvalue="TestNG.ErrorValidations.loginErrorValidation" />
+        <item itemvalue="TestNG.SubmitOrderTest.orderProduct" />
+        <item itemvalue="TestNG.SubmitOrderTest.deleteOrderTest" />
+        <item itemvalue="TestNG.SubmitOrderTest.sumbitOrder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-3183f394aec4-96c0d24d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03409263-9d64-478a-acb7-1c02a333cf52" name="Changes" comment="" />
+      <created>1711276968408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711276968408</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

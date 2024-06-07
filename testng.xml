@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite  name="All Test Suite" junit="false" verbose="1" >
+
+    <listeners>
+        <listener class-name="rahulshettyacademy.TestComponents.Listeners"> </listener>
+    </listeners>
+    <test thread-count="5" name="Submit Order Test">
+        <classes>
+            <class name="rahulshettyacademy.SubmitOrderTest" >
+                <methods>
+                    <include name="submitOrder" />
+                    <include name="orderProductTest" />
+                    <include name="OrderHistoryTest" />
+                    <include name="deleteOrderTest" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test thread-count="5" name="Error Validations Test">
+        <classes>
+            <class name="rahulshettyacademy.ErrorValidations">
+                <methods>
+                    <include name="loginErrorValidation" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
