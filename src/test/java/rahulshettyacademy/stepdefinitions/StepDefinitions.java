@@ -1,3 +1,5 @@
+package rahulshettyacademy.stepdefinitions;
+
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -55,6 +57,20 @@ public class StepDefinitions extends BaseTest {
 
         String actualMessage = confirmationPage.getConfirmationMessage();
         Assert.assertTrue(actualMessage.equalsIgnoreCase(message));
+        driver.quit();
+    }
 
+    @When("Login with invalid credentials - {} and {}")
+    public void loginWithInvalidCredentialsAnd(String username, String password) {
+
+        productCatalogue = landingPage.loginApplication(username, password);
+    }
+
+    @Then("Verify error {} is displayed")
+    public void verifyErrorIsDisplayed(String message) {
+
+        String actualMessage = landingPage.getErrorMessage();
+        Assert.assertEquals(actualMessage, message);
+        driver.quit();
     }
 }
